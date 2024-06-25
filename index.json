@@ -59,7 +59,7 @@
             "firstName":"Sihlandlo",
             "lastName":"Makhumsha",
             "gender":"male",
-            "profile":"schillo_kotm",
+            "profile":"https://ntandomabuto.github.io/images/sc.jpg",
             "contactDetails":"0725047852"
         },
         {
@@ -67,7 +67,7 @@
             "firstName":"Candice",
             "lastName":"Keet",
             "gender":"Female",
-            "profile":"Candy",
+            "profile":"https://ntandomabuto.github.io/images/candice.jpg",
             "contactDetails":"0813140839"
         },
         {
@@ -75,7 +75,7 @@
             "firstName":"Kayden",
             "lastName":"Hendricks",
             "gender":"male",
-            "profile":"kingkrazee",
+            "profile":"https://ntandomabuto.github.io/images/kayden.jpg",
             "contactDetails":"0621619892"
         },
         {
@@ -83,7 +83,7 @@
             "firstName":"Mohammad",
             "lastName":"Mohamed",
             "gender":"male",
-            "profile":"Mohammad^2",
+            "profile":"https://ntandomabuto.github.io/images/mo.jpg",
             "contactDetails":"0833858267"
         },
         {
@@ -91,7 +91,7 @@
             "firstName":"Nikilitha",
             "lastName":"Kakaza",
             "gender":"Female",
-            "profile":"zenie_kay",
+            "profile":"https://ntandomabuto.github.io/images/niki.jpg",
             "contactDetails":"082 402 1820"
         }
     ]
