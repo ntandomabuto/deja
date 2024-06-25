@@ -55,12 +55,44 @@
     ],
     "friends":[
         {
-            "id":"",
-            "firstName":"",
-            "lastName":"",
-            "gender":"",
-            "profile":"",
-            "contactDetails":""
+            "id":"1",
+            "firstName":"Sihlandlo",
+            "lastName":"Makhumsha",
+            "gender":"male",
+            "profile":"schillo_kotm",
+            "contactDetails":"0725047852"
+        },
+        {
+            "id":"2",
+            "firstName":"Candice",
+            "lastName":"Keet",
+            "gender":"Female",
+            "profile":"Candy",
+            "contactDetails":"0813140839"
+        },
+        {
+            "id":"3",
+            "firstName":"Kayden",
+            "lastName":"Hendricks",
+            "gender":"male",
+            "profile":"kingkrazee",
+            "contactDetails":"0621619892"
+        },
+        {
+            "id":"4",
+            "firstName":"Mohammad",
+            "lastName":"Mohamed",
+            "gender":"male",
+            "profile":"Mohammad^2",
+            "contactDetails":"0833858267"
+        },
+        {
+            "id":"5",
+            "firstName":"Nikilitha",
+            "lastName":"Kakaza",
+            "gender":"Female",
+            "profile":"zenie_kay",
+            "contactDetails":"082 402 1820"
         }
     ]
 }
